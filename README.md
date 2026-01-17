@@ -125,17 +125,10 @@ Dataset contains valuable information that could help us optimize our operations
 
 
 ## Author
-- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
-- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
-- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
-- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
-- <b>[New Kaggle](https://www.kaggle.com/tagg27)</b> 
+- <ins><b>©2026Aditya singh. All rights reserved</b></ins>
+-
 
-## Contact me!
 
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at [Tushar Aggarwal](mailto:info@tushar-aggarwal.com). We would love to hear from you!
-![1](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/7c8fc5d9-4832-4687-810c-c9431ab12abc)
-![2](https://github.com/tushar2704/Pizza-Sales-Analysis/assets/66141195/1eb157dd-d567-4d35-82ec-56a42e67df8b)
 
 
 
